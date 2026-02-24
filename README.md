@@ -28,7 +28,9 @@
 
 - Углублённо работаю с API Discord
 - Улучшение архитектуры Discord бота: функциональность, модули, масштабируемость
-- Веб-разработка (backend / frontend)
+- Веб-разработка:
+  - backend: Python + FastAPI
+  - frontend: HTML/CSS/JS, React (TypeScript)
 - Девопс / развёртывание (Docker, CI/CD и т.д.)
 
 ---
