@@ -19,7 +19,7 @@
 У меня есть следующие проекты:
 
 - **BotWebSite** — Веб-интерфейс для Discord бота
-  - Ознакомиться с моим ботом вы можете добавив его на сервер: **[Клик](https://discord.com/oauth2/authorize?client_id=1206275841395392552)**
+  - Ознакомиться с моим ботом вы можете тут: **[remod3.ru](https://www.remod3.ru/bot)** / **[panel.remod3.ru](https://panel.remod3.ru/)**
 - **calc** — калькулятор на C++
 - **Minesweeper** — Сапёр (WPF / Веб версии) на C#
 - **Landing** — Примеры лендингов на HTML/CSS/JS с использованием **WebGL/Three.js**
